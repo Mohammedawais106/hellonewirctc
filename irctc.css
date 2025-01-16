@@ -1,0 +1,927 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+#nav_1 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 15px;
+
+
+
+
+}
+
+#button_1 {
+    position: fixed;
+    margin-left: 200px;
+
+}
+
+
+
+#login_1 {
+    padding: 8px 15px;
+    color: white;
+    background-color: navy;
+    border: none;
+}
+
+#login_1 a {
+    color: white;
+}
+
+#register_1 {
+    padding: 5px 15px;
+    color: navy;
+    background-color: white;
+    border: none;
+}
+
+#agent_1 {
+    padding: 5px 15px;
+    color: navy;
+    background-color: white;
+    border: none;
+}
+
+#contact_1 {
+    padding: 5px 15px;
+    color: navy;
+    background-color: white;
+    border: none;
+}
+
+#daily_1 {
+    padding: 5px 15px;
+    color: navy;
+    background-color: white;
+    border: none;
+}
+
+#alerts_1 {
+    padding: 5px 15px;
+    color: navy;
+    background-color: white;
+    border: none;
+}
+
+
+#button_2 {
+    margin-top: 50px;
+
+
+}
+
+.same_button {
+    padding: 5px 15px;
+    color: navy;
+    background-color: white;
+    border: none;
+}
+
+#irctc_1 {
+    padding: 8px 15px;
+    color: white;
+    background-color: navy;
+    border: none;
+}
+
+#train_1 {
+    padding: 5px 15px;
+    color: orangered;
+    background-color: white;
+    border: none;
+    font-size: large;
+    border-bottom: 2px solid orangered;
+}
+
+#photo_2 {
+    margin-right: 50px;
+    margin-top: 10px;
+}
+
+#photo_1 {
+    margin-left: 35px;
+    margin-top: 10px;
+}
+
+#button_status {
+    padding: 8px 100px;
+    background-color: navy;
+    color: white;
+    font-size: large;
+    border: none;
+}
+
+#button_vacancy {
+    padding: 8px 100px;
+    background-color: navy;
+    color: white;
+    font-size: large;
+    border: none;
+    margin-left: 15px;
+}
+
+#main_button {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+#heading_1 {
+    margin-left: 20%;
+    margin-top: 30px;
+    color: navy;
+}
+
+#input_seprate {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin-left: 130px;
+}
+
+::placeholder {
+    padding: 20px 60px
+}
+
+#From_1 {
+    padding: 8px 85px;
+    color: navy;
+    font-size: large;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+#To_1 {
+    padding: 8px 85px;
+    color: navy;
+    font-size: large;
+    border: 1px solid black;
+    margin-top: 15px;
+}
+
+#select_option {
+    font-size: medium;
+    padding: 10px 0px;
+    margin-left: 20px;
+
+}
+
+#General_color {
+    background-color: navy;
+    color: white;
+}
+
+#input_side {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin-left: 35%;
+
+    position: relative;
+    top: -22vh;
+}
+
+#Date_time {
+    padding: 15px 2px;
+    color: navy;
+
+    margin-left: 20px;
+
+}
+
+#select_options {
+    margin-top: 30px;
+    margin-bottom: 50px;
+
+    padding: 12px 101px;
+    font-size: large;
+    color: navy;
+}
+
+#checkbox_all {
+    margin-top: 50px;
+    color: blue;
+    margin-left: 132px;
+    margin-top: -50px;
+
+
+
+}
+
+#checkbox_in {
+    margin-top: 5px;
+    color: blue;
+    margin-left: 132px;
+}
+
+#link_2 {
+    margin-left: 30px;
+}
+
+#checkbox_5 {
+    margin-left: 30px;
+}
+
+#button_all {
+    margin: 30px;
+    margin-left: 130px;
+}
+
+#button_search {
+    padding: 8px 50px;
+    background-color: orangered;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-size: large;
+}
+
+#button_disha {
+
+    padding: 8px 5px;
+    background-color: green;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-size: large;
+    margin-left: 230px;
+}
+
+#button_search a {
+    color: white;
+}
+
+#button_disha a {
+    color: white;
+}
+
+
+
+
+#paragraph_1 {
+
+    margin-left: 255px;
+
+
+}
+
+#color_white {
+    background-image: ;
+}
+
+#daily_1 {
+    color: red;
+    font-size: medium;
+}
+
+#alerts_1 {
+    background-color: silver;
+}
+
+#for_color {
+    background-color: navy;
+    color: white;
+}
+
+.background {
+    background-image: url(./done.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px 0px 50px 0px;
+
+
+}
+
+#for_back {
+    background-color: #ecf0f1;
+    border: 4px solid #8854d0;
+    width: 800px;
+    padding-top: 70px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+
+}
+
+#paragraph_div {
+    background-color: #ecf0f1;
+    border: 4px solid #8854d0;
+    width: 800px;
+    margin-top: 5px;
+    padding: 5px 0px;
+    border-radius: 15px;
+    padding-bottom: 50px;
+
+}
+
+#heading_central {
+
+    color: navy;
+
+    margin-left: 65%;
+    margin-top: -5vh;
+
+
+
+}
+
+#footer_1 {
+    display: flex;
+    justify-content: space-around;
+    background-color: slateblue;
+    padding: 30px 0px;
+    color: white;
+    font-size: large;
+    border-bottom: 8px solid #ffa502;
+}
+
+#Footer_2 {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0 150px 0;
+    background-color: #ffda79;
+    font-size: large;
+
+
+}
+
+#Footer_3 {
+
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 50px;
+
+
+
+
+
+}
+
+#notification_images {
+    position: fixed;
+
+
+
+}
+
+a {
+    text-decoration: none;
+
+}
+
+
+
+.undersublist1 {
+    display: none;
+}
+
+.list_1main:hover .undersublist1 {
+    display: block;
+
+}
+
+.undersublist2 {
+    display: none;
+}
+
+.list_2main:hover .undersublist2 {
+    display: block;
+}
+
+.undersublist3 {
+    display: none;
+
+}
+
+.list_3main:hover .undersublist3 {
+    display: block;
+}
+
+.undersublist4 {
+    display: none;
+}
+
+.list_4main:hover .undersublist4 {
+    display: block;
+}
+
+
+.undersublist2_1 {
+    display: none;
+}
+
+.list2_1main:hover .undersublist2_1 {
+    display: block;
+}
+
+.undersublist2_2 {
+    display: none;
+}
+
+.list2_2main:hover .undersublist2_2 {
+    display: block;
+}
+
+.undersublist2_3 {
+    display: none;
+}
+
+.list3_2main:hover .undersublist2_3 {
+    display: block;
+}
+
+.undersublist3_1 {
+    display: none;
+}
+
+.list1_3main:hover .undersublist3_1 {
+    display: block;
+}
+
+.undersublist3_2 {
+    display: none;
+
+}
+
+.list2_3main:hover .undersublist3_2 {
+    display: block;
+}
+
+.undersublist3_3 {
+    display: none;
+}
+
+.list3_3main:hover .undersublist3_3 {
+    display: block;
+}
+
+.undersublist4_1 {
+    display: none;
+}
+
+.list1_4main:hover .undersublist4_1 {
+    display: block;
+}
+
+.undersublist4_2 {
+    display: none;
+}
+
+.list2_4main:hover .undersublist4_2 {
+    display: block;
+}
+
+
+.for_list {
+    display: flex;
+
+}
+
+
+
+.p1_space {
+    margin-left: 185px;
+}
+
+.p2_space {
+    margin-left: 240px;
+}
+
+#for_alertimage {
+
+    position: fixed;
+    margin-left: 500px;
+}
+
+#photo_alert {
+    margin-right: 50px;
+}
+
+/* Practice for media query  */
+/* for tablest use only */
+
+@media screen and (min-width:601px) and (max-width:900px) {
+
+    * {
+        padding: 0;
+        margin: 0;
+    }
+
+    #nav_1 {
+
+        position: fixed;
+        background-color: #ffeaa7;
+        width: 760px;
+        padding: 10px;
+        padding-right: 100px;
+
+
+
+    }
+
+    #login_1 {
+        padding: 5px;
+
+    }
+
+    #register_1 {
+        padding: 5px;
+    }
+
+    #agent_1 {
+        padding: 5px;
+    }
+
+    #contact_1 {
+        padding: 5px;
+    }
+
+    #daily_1 {
+        padding: 3px 5px;
+        font-size: medium;
+    }
+
+    #alerts_1 {
+        padding: 5px;
+    }
+
+    #irctc_1 {
+        padding: 5px 5px;
+        margin-left: 5px;
+    }
+
+    #train_1 {
+        padding: 5px 5px;
+    }
+
+    .same_button {
+        padding: 5px 5px;
+    }
+
+    #train_1 {
+        padding: 5px 5px;
+        font-size: medium;
+    }
+
+    #button_2 {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    #color_white {
+        margin-top: 20vh;
+    }
+
+    #heading_central {
+        display: none;
+    }
+
+    #photo_2 {
+        margin-left: 8px;
+    }
+
+    #Footer_2 {
+        font-size: medium;
+
+    }
+
+    #photo_2 {
+        height: 20px;
+        width: 50px;
+    }
+
+    #photo_alert {
+        margin-left: 10px;
+    }
+
+    #for_mediaqurey {
+
+        width: 50%;
+    }
+
+    #heading_1 {
+        margin-left: 15%;
+    }
+
+    .advertisement_image {
+        display: none;
+    }
+
+    .card_line1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card_line2 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-right: 12vw;
+    }
+
+    .customer_care {
+        width: 99vw;
+    }
+
+
+
+
+
+
+}
+
+
+
+/* this mention is below, for mobile application */
+
+
+@media screen and (max-width:600px) {
+
+    #nav_1 {
+        display: none;
+
+    }
+
+    #main_button {
+        display: none;
+    }
+
+    #heading_central {
+        display: none;
+    }
+
+    #Date_time {
+
+        position: absolute;
+        top: 50vh;
+        margin-left: -79vw;
+        padding: 2px 55px;
+        border: 4px solid green;
+    }
+
+    #select_option {}
+
+    #select_options #Date_time {}
+
+    #forcheck_block #Date_time {
+        display: block;
+    }
+
+    #From_1 {
+
+        width: 20px;
+        margin-left: 20vw;
+        border: 2px solid orangered;
+    }
+
+    #Date_time {
+
+        width: 100px;
+
+    }
+
+    #main_footer {
+        display: none;
+    }
+
+    #To_1 {
+
+        width: 20px;
+        margin-left: 20vw;
+        border: 2px solid orange;
+    }
+
+    #select_option {
+
+        width: 42vw;
+        margin-left: 20vw;
+        margin-top: 20px;
+
+
+    }
+
+    #select_options {
+
+        width: 40px;
+        margin-left: 20vw;
+        padding: 5px 90px;
+        font-size: small;
+
+    }
+
+    #color_white {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #for_back {
+        display: flex;
+        flex-direction: column;
+        text-align: start;
+    }
+
+    #checkbox_all {
+        width: 400px;
+
+
+    }
+
+    #button_disha {}
+
+    #button_all {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+    }
+
+    #paragraph_div {
+        display: none;
+    }
+
+    #for_back {
+
+
+        width: 90vw;
+        margin-left: 10px;
+        margin-top: 5vh;
+    }
+
+    .background {
+        background-image: url(/mini_mini.png.crdownload);
+        box-shadow: 0px 0px 33px 2px orange;
+        width: 400px;
+        height: 300px;
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+
+    #checkbox_all {
+        margin-left: 10px;
+    }
+
+    #checkbox_in {
+        margin-left: 10px;
+    }
+
+    #button_all {
+        margin-left: 10px;
+    }
+
+    #heading_1 {
+        margin-left: 160px;
+
+        background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(69, 252, 81, 1) 100%);
+
+
+        color: yellow;
+
+
+
+    }
+
+    .Banner-Advertisement {
+        display: none;
+    }
+
+    iframe {
+        display: none;
+    }
+
+    .customer_care {
+        display: none;
+    }
+
+    .card_line2 {
+        display: none;
+    }
+
+    .card_line1 {
+        display: none;
+    }
+
+    .for_card1 {
+        display: none;
+    }
+
+    .for_card4_4 {
+        display: none;
+    }
+}
+
+
+
+/* AGAIN WORD IN ADDITION SOME THING FOR OPE  NEW WINDOWS */
+
+.addition_button_image {
+    height: 50px;
+    width: 50px;
+
+
+}
+
+.photos_1_2 {
+    height: 100px;
+    width: 100px;
+}
+
+.advertisement_image {
+    display: flex;
+    justify-content: center;
+    height: 60vh;
+    width: 80vw;
+    margin-left: 10vw;
+}
+
+.text_h1 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.sub1_section_forallphotos {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 25px;
+    text-align: center;
+
+}
+
+.sub2_section_forallphotos_videos {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+
+}
+
+iframe {
+    margin-top: 50px;
+}
+
+
+.for_card1 {
+    width: 338px;
+    height: 540px;
+    /* text-align: center; */
+    border: 2px solid black;
+    margin-bottom: 10px;
+    background-color: goldenrod;
+
+}
+
+.Maharasjas {
+    text-align: center;
+    margin: 20px 0px;
+}
+
+.card_line1 {
+    display: flex;
+    /* justify-content: space-around; */
+    justify-content: center;
+    gap: 50px;
+    margin-top: 20px;
+}
+
+.Holidays {
+    text-align: center;
+    padding: 40px 0px;
+}
+
+/* for card second row is starting */
+
+.card_line2 {
+    display: flex;
+    gap: 50px;
+    margin-left: 13vw;
+    margin-bottom: 30px;
+}
+
+.for_card4_4 {
+    width: 338px;
+    height: 540px;
+    border: 2px solid black;
+    background-color: goldenrod;
+    margin-top: 30px;
+}
+
+.heading_Bharat {
+    text-align: center;
+    padding: 30px;
+}
+
+.for_adjustimage {
+    width: 338px;
+}
+
+
+
+body {
+    background-image: url(https://img.freepik.com/premium-vector/abstract-background-made-halftone-dots-white-gray-colors_444390-4058.jpg?w=2000); /* Replace with your image URL */
+    
+}
